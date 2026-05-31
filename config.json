@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usereecrypt",
+        "uuid": 6587965,
+        "checksum": "0qzjvh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
